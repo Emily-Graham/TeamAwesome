@@ -3,8 +3,14 @@
   padding: 0;
 }
 
+header {
+  display: flex;
+  width: 100%;
+}
+
 body {
-  background-color: #EBD7A673;
+  background-color: #EAD9B2;
+  z-index: 100;
 }
 
 #logoStandin {
@@ -27,4 +33,15 @@ h1 {
   align-items: center;
   left: 169px;
   top: 34px;
+}
+
+#newTask {
+  border-radius: 40px;
+  position: absolute;
+  width: 344px;
+  height: 88px;
+  left: 1036px;
+  top: 31px;
+  background-color: #5F9741;
+  border: none;
 }
