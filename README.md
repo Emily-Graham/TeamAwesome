@@ -1,2 +1,0 @@
-# TeamAwesome
-Final Project
