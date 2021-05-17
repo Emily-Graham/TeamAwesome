@@ -2,3 +2,29 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-color: #EBD7A673;
+}
+
+#logoStandin {
+  border-radius: 40px;
+  width: 85px;
+  height: 85px;
+  left: 51px;
+  top: 33px;
+  position: absolute;
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: thin;
+  position: absolute;
+  font-size: 72px;
+  align-items: center;
+  left: 169px;
+  top: 34px;
+}
